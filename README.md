@@ -2,7 +2,7 @@
 
 This project demonstrates using [Streamlit](https://www.streamlit.io/) framework. The data used in this repo is the [Jobs and Salaries in Data field 2024](https://www.kaggle.com/datasets/murilozangari/jobs-and-salaries-in-data-field-2024/data) from Kaggle.
 
-Try app [here](https://data_salaries.streamlit.app/)!
+Try app [here](https://data-salaries.streamlit.app/)!
 
 ## Files
 
